@@ -1,0 +1,14 @@
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\bin\Debug\net8.0\ProgPart1.exe
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\bin\Debug\net8.0\ProgPart1.deps.json
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\bin\Debug\net8.0\ProgPart1.runtimeconfig.json
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\bin\Debug\net8.0\ProgPart1.dll
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\bin\Debug\net8.0\ProgPart1.pdb
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ProgPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ProgPart1.AssemblyInfoInputs.cache
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ProgPart1.AssemblyInfo.cs
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ProgPart1.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ProgPart1.dll
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\refint\ProgPart1.dll
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ProgPart1.pdb
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ProgPart1.genruntimeconfig.cache
+C:\Users\enriq\source\repos\ProgPart1\ProgPart1\obj\Debug\net8.0\ref\ProgPart1.dll
