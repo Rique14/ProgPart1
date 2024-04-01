@@ -8,5 +8,5 @@ Code for part 1 POE
 4. Build the solution by clicking on the build menu and select Build Solution.
 5. Run project by pressing F5 or by clicking on the Start Debugging button in Visual Studio.
 ## Github Repository
-Find the code for this project on (https://github.com/Rique14/ProgPart1.git).
+Find the code for this project on (https://github.com/Rique14/ProgPart1).
    
